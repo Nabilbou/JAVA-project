@@ -1,0 +1,14 @@
+LEVEL,15,11,,,,,,,,,,,,
+M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+M,P,B,B,B,R,R,R,B,B,B,B,B,B,M
+M,B,B,B,B,B,B,B,B,B,B,B,B,B,M
+M,B,D,B,B,B,B,R,R,R,B,B,B,B,M
+M,B,D,B,B,R,B,B,S,R,B,B,B,B,M
+M,R,D,B,B,X,D,X,R,B,B,R,B,B,M
+M,B,R,B,R,D,X,D,B,B,R,B,N,N,M
+M,R,B,B,B,X,D,X,B,B,B,B,D,N,M
+M,D,B,B,B,B,R,B,R,B,B,R,B,N,M
+M,B,B,B,B,B,B,B,R,R,B,B,B,D,M
+M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+DIAMOND,12,,,,,,,,,,,,,
+TIME,180,,,,,,,,,,,,,
